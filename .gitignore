@@ -16,6 +16,7 @@ pyvenv.cfg
 # Secrets
 .env
 *.env
+VT_API_KEY
 
 # macOS
 .DS_Store
