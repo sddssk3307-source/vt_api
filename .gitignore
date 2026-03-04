@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+project_plezz/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Secrets
+.env
+*.env
+
+# macOS
+.DS_Store
