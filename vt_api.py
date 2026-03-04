@@ -45,7 +45,7 @@ def print_summary(report: dict) -> None:
         print("Срабатываний не найдено.")
 
 def main():
-    # Вставьте ваш SHA-256:
+   
     sha256 = "d262de30f1b79581e3e87777de5a3b9ba48ac699ef37c5af065e36d1e5dc0d1c"
 
     if len(sha256) != 64:
